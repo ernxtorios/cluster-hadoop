@@ -4,4 +4,4 @@
 
 ![Entorno de trabajo](images/entorno_trabajo.png)
 
-[Documentación]: docs/clusterhadoop.pdf "Documentación del clúster Hadoop"
+[Documentación del clúster Hadoop](docs/clusterhadoop.pdf)
